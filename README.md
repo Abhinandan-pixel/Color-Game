@@ -32,3 +32,6 @@
 </ul>
 
 [Visit website]()
+
+#### Important
+<p>Not recommended for mobile devices.</p>
